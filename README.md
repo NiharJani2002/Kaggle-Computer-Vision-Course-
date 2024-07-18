@@ -51,3 +51,7 @@ Data Augmentation:
 
 Objective: Improve model performance by augmenting training data.
 Skills: Applying various data augmentation techniques to increase the diversity and amount of training data, thus enhancing model robustness.
+
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/3851ce7e-9513-4b54-a1d1-86cccd5dd43d">
+
